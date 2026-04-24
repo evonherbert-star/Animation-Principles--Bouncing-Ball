@@ -49,3 +49,5 @@ The ball maintains consistent volume even when deformed, preserving its 3D appea
 
 12. Appeal
 Even a simple bouncing ball becomes visually engaging with proper timing and motion.
+<img width="1536" height="1024" alt="file_000000005580720ab3c6ce5885fa542e" src="https://github.com/user-attachments/assets/ea410bed-72f8-4cef-b601-a26a68b17f75" />
+
